@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.yash.cravings"},{"l":"com.yash.cravings.controller"},{"l":"com.yash.cravings.model"},{"l":"com.yash.cravings.repository"},{"l":"com.yash.cravings.service"}];updateSearchResults();
